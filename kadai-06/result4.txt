@@ -1,0 +1,4 @@
+This is kadai-06.
+This is hello.txt.
+I have to complete 8 reports.
+It is very hard for me to complete that.

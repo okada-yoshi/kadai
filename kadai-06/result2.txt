@@ -1,0 +1,3 @@
+Hello.
+This is kadai-06.
+This is hello.txt.
